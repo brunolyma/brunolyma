@@ -2,7 +2,7 @@
 
 <p>Sempre em busca da evolução pessoal e profissional, indo pra cima de bugs e atrás das boas práticas de desenvolvimento. Focado em JavaScript, inicialmente no front-end, mas, em busca do FullStack. Curto games, fotografia e amo música!</p>
 <div align="center">
-  <a href="https://github.com/brunolyma">
+  <a href="https://github.com/Rrunolyma">
   <img height="200" width="45%" src="https://github-readme-stats.vercel.app/api?username=brunolyma&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="200" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunolyma&layout=compact&langs_count=7&theme=dracula"/>
 </div>
