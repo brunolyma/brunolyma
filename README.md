@@ -1,6 +1,6 @@
 ## Olá, meu nome é Bruno Lima, sou um programador em ascenção!
 
-<p>Sempre em busca da evolução pessoal e profissional, indo pra cima de bugs e atrás das boas práticas de desenvolvimento. 🚀 Focado em JavaScript, inicialmente no front-end, mas, em busca do FullStack. Curto games e livros, fotografia e cinema e amo música e viajar! 🎸🏖️📽️📸📖🤓</p>
+<p>Sempre em busca da evolução pessoal e profissional, indo pra cima de bugs e atrás das boas práticas de desenvolvimento. 🚀 Focado em JavaScript, inicialmente no front-end, mas, em busca do FullStack. Curto games e livros, fotografia e cinema e amo música e viajar! 🎸🏖️📽️📸📖</p>
 <div align="center">
   <a href="https://github.com/brunolyma">
   <img height="200" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunolyma&layout=compact&langs_count=7&theme=dracula"/>
