@@ -6,7 +6,7 @@
   <img height="200" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunolyma&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Bruno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Bruno-Js" height="30" width="41" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Bruno-Typescript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Bruno-Tailwind" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg">
   <img align="center" alt="Bruno-React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
